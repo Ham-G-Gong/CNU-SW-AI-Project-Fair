@@ -1,7 +1,7 @@
 # 2023 CNU SW/AI Project Fair
 
 ## 🏛️ 프로젝트 제목
-- UAV 온디바이스 재난영역 검출 소프트웨어
+- UAV 온디바이스 재난영역 검출 소프트웨어 개발
 
 
 ## 👥 팀 Ham-G-Gong
