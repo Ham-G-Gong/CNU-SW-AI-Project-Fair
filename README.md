@@ -52,5 +52,5 @@
     > 영역 검출을 수행하는 AI 모델
 3. [Front-End](https://github.com/Ham-G-Gong/GradProj)
     > AI 모델의 영역 검출결과와 하드웨어 상태 정보를 시각화
-4. [Server](https://github.com/Ham-G-Gong/GradProj_Server
+4. [Server](https://github.com/Ham-G-Gong/GradProj_Server)
     > Front 의 요청에 따라 CLI 명령어를 이용해 Front 에 데이터 전달
