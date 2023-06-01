@@ -12,7 +12,7 @@
 
 <div style="text-align: center;">
 
-| <img src="./figure/sangho.jpg" width="300" height="350">| <img src="./figure/gihwan.jpeg" width="300" height="350"> | <img src="./figure/geonu.jpg" width="300" height="350"> |
+| <img src="./figure/sangho.jpg" width="300" height="350">| <img src="./figure/gihwan_2.jpg" width="300" height="350"> | <img src="./figure/geonu.jpg" width="300" height="350"> |
 |:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
 |[하상호](https://github.com/sangho0804)|[김기환](https://github.com/gihwan-kim)|[임건우](https://github.com/rjsdn0124)|
 |CNU|CNU|CNU|
