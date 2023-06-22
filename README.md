@@ -20,7 +20,7 @@
 
 </div>
 
-## 프로젝트 구성요소
+## ⚙️ 프로젝트 구성요소
 
 1. [On-device AI model: U-Net, Attention U-Net](https://github.com/Ham-G-Gong/GradProj_UNet_series)
     > 영역 검출을 수행하는 AI 모델
