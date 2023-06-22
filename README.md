@@ -20,6 +20,16 @@
 
 </div>
 
+## 프로젝트 구성요소
+
+1. [On-device AI model: U-Net, Attention U-Net](https://github.com/Ham-G-Gong/GradProj_UNet_series)
+    > 영역 검출을 수행하는 AI 모델
+2. [On-device AI model: REDNet, FANet](https://github.com/Ham-G-Gong/GradProj_REDNet_FANet)
+    > 영역 검출을 수행하는 AI 모델
+3. [Front-End](https://github.com/Ham-G-Gong/GradProj)
+    > AI 모델의 영역 검출결과와 하드웨어 상태 정보를 시각화
+4. [Server](https://github.com/Ham-G-Gong/GradProj_Server)
+    > Front 의 요청에 따라 CLI 명령어를 이용해 Front 에 데이터 전달
 
 
 ## 🔍 프로젝트 추진 배경
@@ -44,13 +54,3 @@
 - Jetson Nano Board 를 드론에 부착하여 사용합니다.
 
 
-## 프로젝트 구성요소
-
-1. [On-device AI model: U-Net, Attention U-Net](https://github.com/Ham-G-Gong/GradProj_UNet_series)
-    > 영역 검출을 수행하는 AI 모델
-2. [On-device AI model: REDNet, FANet](https://github.com/Ham-G-Gong/GradProj_REDNet_FANet)
-    > 영역 검출을 수행하는 AI 모델
-3. [Front-End](https://github.com/Ham-G-Gong/GradProj)
-    > AI 모델의 영역 검출결과와 하드웨어 상태 정보를 시각화
-4. [Server](https://github.com/Ham-G-Gong/GradProj_Server)
-    > Front 의 요청에 따라 CLI 명령어를 이용해 Front 에 데이터 전달
